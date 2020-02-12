@@ -1,0 +1,11 @@
+/Users/dachieu/Desktop/cs-string/bin/Debug/netcoreapp3.1/cs-string
+/Users/dachieu/Desktop/cs-string/bin/Debug/netcoreapp3.1/cs-string.deps.json
+/Users/dachieu/Desktop/cs-string/bin/Debug/netcoreapp3.1/cs-string.runtimeconfig.json
+/Users/dachieu/Desktop/cs-string/bin/Debug/netcoreapp3.1/cs-string.runtimeconfig.dev.json
+/Users/dachieu/Desktop/cs-string/bin/Debug/netcoreapp3.1/cs-string.dll
+/Users/dachieu/Desktop/cs-string/bin/Debug/netcoreapp3.1/cs-string.pdb
+/Users/dachieu/Desktop/cs-string/obj/Debug/netcoreapp3.1/cs-string.csprojAssemblyReference.cache
+/Users/dachieu/Desktop/cs-string/obj/Debug/netcoreapp3.1/cs-string.AssemblyInfoInputs.cache
+/Users/dachieu/Desktop/cs-string/obj/Debug/netcoreapp3.1/cs-string.AssemblyInfo.cs
+/Users/dachieu/Desktop/cs-string/obj/Debug/netcoreapp3.1/cs-string.dll
+/Users/dachieu/Desktop/cs-string/obj/Debug/netcoreapp3.1/cs-string.pdb
